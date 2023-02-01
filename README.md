@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+**Amanda Stroud**
+Computer Science major with an Emphasis in Cyber Security
